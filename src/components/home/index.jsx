@@ -1,10 +1,11 @@
 import React from 'react'
 import  { IntroSection }  from './IntroSection';
 
-const home = () => {
+const Home = () => {
   return (
     <IntroSection></IntroSection>
+    
   );
 };
 
-export default home;
+export default Home;
